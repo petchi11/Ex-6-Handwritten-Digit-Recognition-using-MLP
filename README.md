@@ -144,14 +144,20 @@ dev_predictions = make_predictions(X_dev, W1, b1, W2, b2)
 get_accuracy(dev_predictions, Y_dev)
 ```
 
-## Output :
-![image](https://user-images.githubusercontent.com/105230321/205441368-b7be9a3f-77a8-4b42-983b-a622fc1d16c4.png)
+## OUTPUT :
 
-![image](https://user-images.githubusercontent.com/105230321/205441374-cb47690d-ddd2-44a8-abb2-a4511d4c07d5.png)
+![image](https://user-images.githubusercontent.com/105230321/206274533-f5810b2c-3d3a-46ac-8bb0-8402c6ce0821.png)
 
-![image](https://user-images.githubusercontent.com/105230321/205441386-1fec1779-1fe6-42ee-b51e-114909604f1c.png)
+![image](https://user-images.githubusercontent.com/105230321/206274641-6ce47dde-3163-40dd-a9dc-65487fb57134.png)
 
+### PREDICTIONS : 
+![image](https://user-images.githubusercontent.com/105230321/206274673-fe26069d-a542-462d-844a-3bba73e3cad5.png)
+![image](https://user-images.githubusercontent.com/105230321/206274711-1a67543a-58e3-4c3c-be3b-9e3b7496ddaf.png)
+![image](https://user-images.githubusercontent.com/105230321/206274755-37df7675-398b-486f-91f8-d56cf8bef371.png)
+![image](https://user-images.githubusercontent.com/105230321/206274803-a829093a-c449-402b-bc67-702a756d0dda.png)
 
+### ACCURACY :
+![image](https://user-images.githubusercontent.com/105230321/206275146-74e0f221-2591-480e-8c1d-2713489f1e21.png)
 
 ## Result:
 Thus,the Implementation of Handwritten Digit Recognition using MLP Is Executed Successfully.
